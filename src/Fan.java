@@ -1,3 +1,4 @@
+// Module 6 Fan Isaiah Miracle 04/20/2025
 public class Fan {
     // Constants
     public static final int STOPPED = 0;
